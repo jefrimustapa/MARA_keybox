@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <Nextion.h>
 
-
+//
 char dataFromUI[4] = {0};
 
 #define LED 2
